@@ -53,4 +53,4 @@
 
 ## 已知Bug
 
-![截图](assets/images/screenshot-10.jpg)
+![华康秀风体的诅咒](assets/images/screenshot-10.jpg)
