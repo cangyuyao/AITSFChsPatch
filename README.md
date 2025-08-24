@@ -29,7 +29,8 @@
 | 信息框名字、梦界UI                  | FOT-AraletStd-DB      | 華康粗黑體     | 方正醒黑DB       |                              |
 | 教程、操作UI                        | FOT-TsukuGoPro-M      | 華康中黑體     | 方正FW筑紫黑M    | 同源                         |
 | 搜查报告书（进度）                  | FOT-TsukuGoPro-M      | 華康圓體W3     | 方正FW筑紫黑M    | 怀疑本地化挂错字体           |
-| 梦界互动选项、“事件还没有结束”      | FOT-TsukuBOldMinPr6-R | 華康周氏行楷   | 华康周氏行楷     | 假名印象比重更大             |
+| 梦界互动选项      | FOT-TsukuBOldMinPr6-R | 華康周氏行楷   | 华康周氏行楷     | 假名印象比重更大             |
+| “事件还没有结束”      | FOT-TsukuBOldMinPr6-R | 華康仿宋體   | 华康周氏行楷     | 假名印象比重更大             |
 | 结局标题                            | FOT-TsukuBOldMinPr6-R | 華康儷宋       | 方正FW筑紫明朝宋 | 基本同源                     |
 | 时序图便签（标题）、条目新增便签    | FOT-KafuMarkerStd-B   | 華康秀風體     | 文鼎P大签字笔    |                              |
 | 时序图便签、文件新增便签            | FOT-KafuPenjiStd-L    | 華康秀風體     | 文鼎细钢笔行楷   | 贴图，游戏内没有直接使用     |
