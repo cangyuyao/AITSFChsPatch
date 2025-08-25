@@ -51,6 +51,11 @@
 ![对比](assets/images/screenshot-09.jpg)
 
 
-## 已知Bug
+## 已知问题
 
-![华康秀风体的诅咒](assets/images/screenshot-10.jpg)
+1. 华康秀风体的诅咒1：\
+   仍有部分UI在替换同源字体后依然比日文显示效果粗，排查得知是为了让华康秀风体匹配这一堆不同字重的字体而设置了`_FaceDilate`，存储在对应字体的Material中，在补丁制作工具的读取修改范围外。\
+   可以简单的通过UABE导出修改并重新导入，但自动化……
+
+3. 华康秀风体的诅咒2：\
+   ![华康秀风体的诅咒](assets/images/screenshot-10.jpg)
