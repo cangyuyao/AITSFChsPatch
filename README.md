@@ -28,7 +28,7 @@
 | 章节标题                            | FOT-KleePro-M         | FOT-KleePro-M  | 霞鹜文楷L        | 同源                                                                                   |
 | 地点、日期时间、梦界目标            | FOT-KafuTechnoStd-E   | 華康新綜藝體W7 | 方正新综艺黑DB   | 汉字放大到107.95%，#59英数用H字重缩小到81.35%（=FOT-KafuTechnoStd-H#48） |
 | 梦界内地图地名                      | FOT-KafuTechnoStd-H   | 華康新綜藝體W7 | 方正新综艺黑SB   |                                                              |
-| DANCE模式字幕                       | FOT-NewCinemaBStd-D   | 華康新綜藝體W7 | FOT-CinemaCN     |                                                            |
+| DANCE模式字幕                       | FOT-NewCinemaBStd-D   | 華康新綜藝體W7 | 不匹配，保留繁体 | 知名无匹配字幕专用字体，用NewCinemaA暂代 |
 | 信息框名字、梦界UI                  | FOT-AraletStd-DB      | 華康粗黑體     | 方正醒黑DB       |                                                                                        |
 | 教程、操作UI                        | FOT-TsukuGoPro-M      | 華康中黑體     | 方正FW筑紫黑M    | 同源                                                                                   |
 | 搜查报告书（进度）                  | FOT-TsukuGoPro-M      | 華康圓體W3     | 方正FW筑紫黑M    | 怀疑本地化挂错字体                                                                     |
